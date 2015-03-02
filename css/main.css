@@ -1,0 +1,10 @@
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+body {
+    overflow: hidden;
+    border-radius: 10px;
+    background-color: pink;
+    border: 4px solid black;
+}
